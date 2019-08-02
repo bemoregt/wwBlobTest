@@ -1,4 +1,4 @@
-# ofxBlobTest
+# wwBlobTest
 ofxBlob Test for Openframeworks C++ using ofxCv
 
 ![ example]( https://github.com/bemoregt/ofxBlobTest/blob/master/aa.png "example")
